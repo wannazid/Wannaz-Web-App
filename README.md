@@ -13,3 +13,8 @@ Sebuah tools online yang terbuat dari python, tools ini masih dalam pengembangan
 - WordPress Install Checker
 - WordPress Setup Config Checker
 - Website Status Code
+- Range IP Address
+- Grab Cub Domain
+- Grab Domain WordPress by Theme
+- Grab Domain WordPress by Plugin
+- Grab Recent IP Address
